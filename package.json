@@ -1,0 +1,9 @@
+{
+  "name": "opensource-surveyor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Weekly GitHub discovery, measured star growth, and local Markdown reports.",
+  "license": "MIT",
+  "engines": { "node": ">=24.5.0" },
+  "scripts": { "test": "node --test", "survey": "node weekly-surveyor.mjs" }
+}

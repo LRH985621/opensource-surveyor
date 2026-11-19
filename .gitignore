@@ -1,0 +1,13 @@
+.env
+.env.*
+.survey-data/
+.opensource-surveyor/
+state/
+reports/
+logs/
+quarantine/
+node_modules/
+*.part
+*.tmp
+*.zip
+*.tar.gz
